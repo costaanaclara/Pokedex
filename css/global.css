@@ -1,0 +1,18 @@
+.menu{
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+
+.container-pokemon{
+    padding: 0rem 1rem 0rem 1rem;
+}
+
+.container-pokemon h1{
+    padding: 1rem;
+    border-width: 100%;
+}
+
+.titulo{
+    justify-content: space-between;
+    display: flex;
+}
